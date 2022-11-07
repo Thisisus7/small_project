@@ -1,1 +1,1 @@
-# small_project
+# js_small_project
